@@ -57,6 +57,7 @@ The goal is simple: help websites become easier to discover, understand, crawl, 
 - AI-readable content structure guidance
 - AI agent prompts for SEO
 - Intent page ideas for AI search visibility
+- Google Search Console Connect
 
 ## Important Tools and Intent Pages
 
