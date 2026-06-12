@@ -43,47 +43,112 @@ The platform helps analyze important website signals such as:
 
 The goal is simple: help websites become easier to discover, understand, crawl, and cite by both traditional search engines and modern AI systems.
 
+## New AI Visibility Tools
+
+Trubo Rank AI now includes additional AI-powered tools designed to help websites create better content, discover new search opportunities, and improve visibility across AI-driven search experiences.
+
+### AI Keywords Generator
+
+The AI Keywords Generator helps users discover keyword ideas, long-tail search terms, and topic opportunities that can be used for SEO pages, AEO content, GEO landing pages, blog posts, and intent-based content strategies.
+
+It is useful for finding search terms that match how people ask questions in Google, AI assistants, answer engines, and conversational search platforms.
+
+### AI Answer Generator
+
+The AI Answer Generator helps create clear, structured, AI-readable answers around specific topics or keywords.
+
+This tool is built to support answer engine optimization and generative engine optimization by helping websites create content that is easier for AI systems to understand, summarize, and reference.
+
+### AI Content Planner
+
+The AI Content Planner helps generate content ideas for websites based on visibility opportunities.
+
+It can suggest useful page ideas, blog topics, intent pages, and community-style content ideas that can help a website expand its search footprint and improve AI discoverability.
+
+### AI Executive Analysis
+
+AI Executive Analysis reviews website scan results and turns technical findings into clear business-focused priorities.
+
+Instead of only showing raw SEO issues, it helps users understand what matters most, what should be fixed first, and how each improvement can affect search visibility, AI readiness, and website growth.
+
+### AI SEO Assistant
+
+The AI SEO Assistant helps users understand scan results, website issues, AI visibility gaps, and SEO opportunities through a guided AI chat experience.
+
+It can help explain problems, suggest fixes, generate implementation ideas, and support decision-making based on website audit data.
+
+### Live AI Bot Tracking
+
+Trubo Rank AI includes AI Bot Tracking to help website owners monitor visits from AI crawlers and search bots.
+
+This helps users understand whether bots such as GPTBot, ClaudeBot, PerplexityBot, Googlebot, Bingbot, and other crawlers are visiting their website, which pages they access, and how AI systems interact with their content.
+
+
 ## Key Features
 
-- AI discoverability scanner
-- SEO, AEO, and GEO audit
-- AI bot access checker
-- AI search visibility checker
-- LLM visibility checker
-- llms.txt checker
-- Link headers checker
-- Markdown negotiation checker
-- AI readiness audit
-- AI-readable content structure guidance
-- AI agent prompts for SEO
-- Intent page ideas for AI search visibility
-- Google Search Console Connect
+Trubo Rank AI includes a growing set of tools and intelligence features built for modern SEO, AEO, GEO, and AI visibility.
+
+* AI discoverability scanner
+* SEO, AEO, and GEO audit
+* Advanced Deep Pro Scan
+* AI readiness audit
+* AI bot access checker
+* AI search visibility checker
+* LLM visibility checker
+* llms.txt checker
+* llms.txt generator
+* Link headers checker
+* Markdown negotiation checker
+* AI-readable content structure guidance
+* AI crawler accessibility analysis
+* robots.txt and sitemap checks
+* Technical SEO issue detection
+* AI agent prompts for SEO and website improvement
+* Intent page ideas for AI search visibility
+* Google Search Console Connect
+* AI Keywords Generator
+* AI Answer Generator
+* AI Content Planner
+* AI Executive Analysis
+* AI SEO Assistant
+* Live AI Bot Tracking
+* Weekly AI crawler insights
+* Top crawled pages by AI and search bots
+* Search performance opportunities
+* AI visibility recommendations based on real website data
+
 
 ## Important Tools and Intent Pages
 
 Explore the main Trubo Rank AI tools and intent pages:
 
-- [AI Discoverability Checker](https://truborankai.com/ai-discoverability-checker)
-- [AI Visibility Tool](https://truborankai.com/ai-visibility-tool)
-- [AI Search Visibility Checker](https://truborankai.com/ai-search-visibility-checker)
-- [AI Readiness Checker](https://truborankai.com/ai-readiness-checker)
-- [AI Readiness Audit](https://truborankai.com/ai-readiness-audit)
-- [AI SEO Audit Tool](https://truborankai.com/ai-seo-audit-tool)
-- [GEO Checker](https://truborankai.com/geo-checker)
-- [AEO Checker](https://truborankai.com/aeo-checker)
-- [Answer Engine Optimization Tool](https://truborankai.com/answer-engine-optimization-tool)
-- [Generative Engine Optimization Tool](https://truborankai.com/generative-engine-optimization-tool)
-- [LLM Visibility Checker](https://truborankai.com/llm-visibility-checker)
-- [AI Bot Tracking Tool](https://truborankai.com/ai-bot-tracking-tool)
-- [AI Bot Access Checker](https://truborankai.com/ai-bot-access-checker)
-- [Track GPTBot](https://truborankai.com/track-gptbot)
-- [llms.txt Checker](https://truborankai.com/llms-txt-checker)
-- [llms.txt Generator](https://truborankai.com/llms-txt-generator)
-- [Link Headers Checker](https://truborankai.com/link-headers-checker)
-- [Markdown Negotiation Checker](https://truborankai.com/markdown-negotiation-checker)
-- [AI-Ready Content Structure](https://truborankai.com/ai-ready-content-structure)
-- [AI Agent Prompts for SEO](https://truborankai.com/ai-agent-prompts-for-seo)
-- [Intent Page Generator](https://truborankai.com/intent-page-generator)
+* [AI Discoverability Checker](https://truborankai.com/ai-discoverability-checker)
+* [AI Visibility Tool](https://truborankai.com/ai-visibility-tool)
+* [AI Search Visibility Checker](https://truborankai.com/ai-search-visibility-checker)
+* [AI Readiness Checker](https://truborankai.com/ai-readiness-checker)
+* [AI Readiness Audit](https://truborankai.com/ai-readiness-audit)
+* [AI SEO Audit Tool](https://truborankai.com/ai-seo-audit-tool)
+* [GEO Checker](https://truborankai.com/geo-checker)
+* [AEO Checker](https://truborankai.com/aeo-checker)
+* [Answer Engine Optimization Tool](https://truborankai.com/answer-engine-optimization-tool)
+* [Generative Engine Optimization Tool](https://truborankai.com/generative-engine-optimization-tool)
+* [LLM Visibility Checker](https://truborankai.com/llm-visibility-checker)
+* [AI Bot Tracking Tool](https://truborankai.com/ai-bot-tracking-tool)
+* [AI Bot Access Checker](https://truborankai.com/ai-bot-access-checker)
+* [Track GPTBot](https://truborankai.com/track-gptbot)
+* [llms.txt Checker](https://truborankai.com/llms-txt-checker)
+* [llms.txt Generator](https://truborankai.com/llms-txt-generator)
+* [Link Headers Checker](https://truborankai.com/link-headers-checker)
+* [Markdown Negotiation Checker](https://truborankai.com/markdown-negotiation-checker)
+* [AI-Ready Content Structure](https://truborankai.com/ai-ready-content-structure)
+* [AI Agent Prompts for SEO](https://truborankai.com/ai-agent-prompts-for-seo)
+* [Intent Page Generator](https://truborankai.com/intent-page-generator)
+* [AI Keywords Generator](https://truborankai.com/ai-keywords-generator)
+* [AI Answer Generator](https://truborankai.com/ai-answer-generator)
+* [AI Content Planner](https://truborankai.com/dashboard)
+* [AI SEO Assistant](https://truborankai.com/dashboard)
+* [Google Search Console Connect](https://truborankai.com/dashboard)
+
 
 ## Helpful Blog Guides
 
