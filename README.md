@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-truborankai.com-blue)](https://truborankai.com)
 [![AI Discoverability](https://img.shields.io/badge/AI%20Discoverability-Scanner-brightgreen)](https://truborankai.com/ai-discoverability-checker)
 [![SEO AEO GEO](https://img.shields.io/badge/SEO%20%7C%20AEO%20%7C%20GEO-Visibility-purple)](https://truborankai.com)
-[![AI SEO Consultant](https://img.shields.io/badge/AI%20Consultant-Skill-black)](https://truborankai.com)
+[![AI SEO Consultant](https://img.shields.io/badge/AI%20Consultant-AI-black)](https://truborankai.com)
 [![llms.txt](https://img.shields.io/badge/llms.txt-Checker-orange)](https://truborankai.com/llms-txt-checker)
 
 ![Trubo Rank AI - AI Discoverability Scanner](trubo-rank-ai-preview.png)
