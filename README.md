@@ -32,47 +32,6 @@ Trubo Rank AI helps website owners, SEO professionals, SaaS founders, developers
 - AI-readable content structure
 - Technical search readiness
 
-## Key Features
-
-- AI discoverability scanner
-- AI SEO audit tool
-- AEO checker
-- GEO checker
-- LLM visibility checker
-- AI bot access checker
-- llms.txt checker
-- llms.txt generator
-- robots.txt and sitemap checks
-- Link headers checker
-- Markdown negotiation checker
-- AI-readable content structure guidance
-- Advanced Deep Pro Scan
-- AI Keywords Generator
-- AI Answer Generator
-- AI Content Planner
-- AI Executive Analysis
-- AI SEO Assistant
-- Live AI Bot Tracking
-- Google Search Console Connect
-- Weekly AI crawler insights
-- Search performance opportunities
-
-## AI Discoverability Scanner
-
-The Trubo Rank AI scanner checks whether a website is prepared for AI-powered search experiences. It reviews the technical and content signals that help search engines, AI crawlers, answer engines, and large language models access and understand a website.
-
-Important checks include:
-
-- `robots.txt` configuration
-- Sitemap availability
-- AI bot access policy
-- GPTBot, ClaudeBot, PerplexityBot, Googlebot, Bingbot and other crawler signals
-- `llms.txt` readiness
-- Link headers
-- Markdown availability
-- AI-readable page structure
-- Technical SEO issues
-- AEO and GEO opportunities
 
 ## AI Visibility Tools
 
