@@ -1,0 +1,21 @@
+# Example Site
+
+> Public AI-readable guide for Example Site. This file helps AI crawlers, LLMs, answer engines, and AI search systems find the most useful public pages.
+
+## Priority Pages
+
+- https://example.com/
+- https://example.com/docs/
+- https://example.com/pricing/
+- https://example.com/blog/ai-seo-guide
+- https://example.com/blog/llms-txt-guide
+
+## Documentation
+
+- https://example.com/docs/getting-started
+- https://example.com/docs/api
+- https://example.com/docs/faq
+
+## Policy
+
+Public pages may be crawled for search and answer discovery. Private account pages, checkout pages, and user data are not intended for crawling.
