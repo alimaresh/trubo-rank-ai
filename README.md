@@ -59,6 +59,10 @@ Use a guided AI chat experience to understand scan results, website issues, AI v
 
 Monitor visits from AI crawlers and search bots such as GPTBot, ClaudeBot, PerplexityBot, Googlebot, Bingbot, and other crawlers.
 
+### One Page Scan
+
+Review one exact public URL against the standards for its declared page type. One Page Scan separates measured readiness checks, issues, verified signals, and lightweight AI observations, then provides a `Prompt Ready MCP` action that copies an evidence-bounded fix prompt for coding agents.
+
 ## Popular Tools
 
 - [AI Discoverability Checker](https://truborankai.com/ai-discoverability-checker)
@@ -66,6 +70,7 @@ Monitor visits from AI crawlers and search bots such as GPTBot, ClaudeBot, Perpl
 - [AI Search Visibility Checker](https://truborankai.com/ai-search-visibility-checker)
 - [AI Readiness Checker](https://truborankai.com/ai-readiness-checker)
 - [AI Readiness Audit](https://truborankai.com/ai-readiness-audit)
+- [One Page Scan](https://truborankai.com/one-page-scan)
 - [AI SEO Audit Tool](https://truborankai.com/ai-seo-audit-tool)
 - [GEO Checker](https://truborankai.com/geo-checker)
 - [AEO Checker](https://truborankai.com/aeo-checker)
