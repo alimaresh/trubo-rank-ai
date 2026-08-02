@@ -1,6 +1,6 @@
-# One Page Scan
+# AI Page Clarity Checker - One Page Scan
 
-One Page Scan is a focused Trubo Rank AI diagnostic for reviewing one exact public URL. It helps website owners and developers understand whether a page is clear, accessible, structured, and ready for its intended job without running a whole-site audit.
+One Page Scan is Trubo Rank AI's focused AI page clarity checker for one exact public URL. It helps website owners and developers see whether a page communicates its purpose, main answer, entities, evidence, and next action clearly enough for people and AI systems to interpret—without running a whole-site audit.
 
 Open the public tool page:
 
@@ -20,6 +20,19 @@ After signing in, add the exact public page URL and choose the page type that be
 - About, entity, and local business pages
 
 The selected type determines the evidence-based checks used for the report. If the visible page signals appear inconsistent with that choice, the report can warn about a possible mismatch without silently changing the selected rules.
+
+## What AI Page Clarity Means
+
+AI page clarity is the quality of the visible signals that explain what a page is, what question or task it addresses, and why its content should be understood in a particular way. A clear page typically provides:
+
+- A direct purpose that matches the page type
+- Descriptive headings and a logical content sequence
+- Concise answers near the questions they address
+- Identifiable organizations, products, authors, or other key entities
+- Evidence and trust context for important claims
+- A clear next step for the intended reader
+
+One Page Scan can identify unclear openings, buried answers, weak heading structure, missing trust context, or a mismatch between the content and the declared page type. These are page-level clarity observations, not guarantees of rankings, indexing, citations, or inclusion in an AI answer.
 
 ## What The Report Includes
 
@@ -75,6 +88,6 @@ The prompt can be pasted directly into coding agents such as Codex, Claude Code,
 
 ## Scan One Public Page
 
-Open One Page Scan:
+Open the AI Page Clarity Checker:
 
 https://truborankai.com/one-page-scan
