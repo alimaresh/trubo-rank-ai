@@ -93,6 +93,16 @@ Check one exact public URL for AI page clarity: a clear purpose, answer structur
 - [AI SEO Assistant](https://truborankai.com/dashboard)
 - [Google Search Console Connect](https://truborankai.com/dashboard)
 
+## Live AI Visibility Case Studies
+
+Explore documented case studies with real referral numbers, crawler analytics, percentage charts, evidence limitations, and practical SEO, AEO, and GEO workflows.
+
+- [Case Study Library and Live Charts](https://truborankai.com/case-study)
+- [Plinkod Live AI Visibility Case Study](case-studies/plinkod.md)
+- [eFootballLab AI Referral and Search Opportunity Study](case-studies/efootballlab.md)
+- [How TruboRankAI Uses TruboRankAI](case-studies/truborankai-dogfooding.md)
+- [Browse the Case Study Documentation Index](case-studies/README.md)
+
 ## Helpful Guides
 
 - [What Is AI Discoverability?](https://truborankai.com/blog/what-is-ai-discoverability)
