@@ -1,53 +1,68 @@
-# Plinkod AI Visibility Example
+# Plinkod Live AI Visibility Case Study
 
-Plinkod AI Visibility Example is a high-value topic for businesses that want more traffic from Google, AI Search, ChatGPT, Claude, Gemini, Perplexity, Copilot, and other answer engines. Trubo Rank AI helps position this topic inside a practical AI visibility strategy for website owners, SaaS founders, SEO agencies, developers, bloggers, and content teams.
+This case study documents real AI referral traffic and crawler activity from Plinkod.com. It is an evidence snapshot, not a promise that crawler visits cause rankings, citations, or recommendations.
 
-Marketing case study style page showing how a smaller brand can position itself around AI Discoverability, AI SEO, and answer-ready content. The goal is simple: help a website become easier to find, easier to understand, and easier to trust when people search through classic search engines or AI-powered discovery experiences.
+**Official live study:** [Plinkod AI Visibility Case Study](https://truborankai.com/case-study-plinkod-ai-visibility)
 
-## Why This Matters For Search Traffic
+**Evidence snapshot:** August 6, 2026
 
-Search is changing from a list of links into a mix of results, summaries, recommendations, and AI-generated answers. That shift creates a new competition for visibility. A brand that wants future traffic needs more than basic SEO pages. It needs AI Discoverability, AI SEO, Answer Engine Optimization, Generative Engine Optimization, AI Visibility, LLM Visibility, AI Content, and clear public messaging.
+## Measured Results
 
-Plinkod AI Visibility Example supports that goal by giving search engines, AI-assisted readers, and human visitors a clearer reason to understand the website. Strong pages use the language customers already search for, answer the questions they ask, and connect related topics across the site. This is how a documentation hub can attract organic search traffic, developer traffic, AI crawler attention, and backlinks.
+The owner-supplied aggregate referral export recorded:
 
-## Trubo Rank AI Positioning
+- **990 visits** attributed to AI answer platforms
+- **1,220 AI-referred pageviews**
+- **967 visits from ChatGPT**
+- **1,195 ChatGPT-referred pageviews**
+- ChatGPT ranked **seventh** among recorded referral sources by visits
 
-Trubo Rank AI is built around the modern visibility stack: AI Discoverability, AI SEO, AEO, GEO, AI Crawlers, llms.txt, robots.txt, Markdown Optimization, Link Headers, Technical SEO, AI Content Planning, and AI Search Visibility. Public documentation should promote those outcomes clearly and repeatedly without becoming overly technical.
+The measured AI referral group included ChatGPT, Perplexity, Gemini, and Claude. Referral traffic is kept separate from crawler activity because a bot request is not a human visit or proof that an answer engine cited the website.
 
-For this topic, the marketing message should focus on business value. More AI-ready pages can support better brand discovery. Clearer content can help answer engines understand the brand. Better topic coverage can increase the chance of being found through long-tail searches. Stronger internal linking can help visitors move from awareness to action.
+## AI Bot and Crawler Evidence
 
-## Keywords To Target Naturally
+The historical TruboRankAI bot-tracking export covered May 8 through August 6, 2026 and recorded:
 
-Target keywords include AI Visibility case study, AI SEO, AEO. These terms should appear naturally in page titles, headings, introductions, related pages, and call-to-action sections. The copy should sound useful and commercial, not stuffed. A visitor should understand what Trubo Rank AI does and why the platform is relevant to the search they made.
+- **56,081 crawler events** across **1,390 unique paths**
+- **14,464 AI-classified events**
+- **26,541 search-classified events**
+- **5,161 spider-bot events**
+- **2,415 user-triggered AI retrieval events**
 
-Related keyword ideas include AI visibility tool, AI SEO audit tool, AI readiness checker, AI Search visibility checker, LLM visibility checker, AEO checker, GEO checker, AI bot tracking tool, llms.txt checker, Link Headers checker, Markdown negotiation checker, AI-ready content structure, AI keywords generator, AI answer generator, and AI content planner.
+The recorded agent groups included ChatGPT-User, OAI-SearchBot, GPTBot, ClaudeBot, Perplexity-User, Bytespider, Applebot, and other crawlers. The underlying evidence retains confidence labels so legacy unsigned events are not presented as authenticated server evidence.
 
-## Who Should Care
+## What the Live Charts Show
 
-This topic is useful for SaaS founders who need more qualified organic traffic, agencies building AI SEO services, marketers creating new landing pages, developers responsible for public website quality, and business owners preparing for AI Search. It is also useful for content teams that want to build authority around AI Discoverability, Answer Engine Optimization, Generative Engine Optimization, and AI Content.
+The [live case study dashboard](https://truborankai.com/case-study) converts the latest Admin-published evidence snapshot into percentage comparisons:
 
-Trubo Rank AI gives these audiences a clear destination: analyze the website, understand AI visibility opportunities, and improve public positioning for modern search behavior. The documentation hub supports that message by ranking for important terms and sending readers toward the official website.
+1. GPT/OpenAI, Claude, Perplexity, spider bots, and other AI activity
+2. AI bots compared with search bots
+3. User-triggered AI retrieval compared with automated AI crawling
 
-## Conversion Angle
+Each chart can be exported as a branded 1000 × 1000 PNG for reports or social posts. The charts use percentages for readability while the case study retains the measured totals and evidence date.
 
-The best CTA for this page is not a technical explanation. It is a direct invitation to use Trubo Rank AI. Visitors searching for Plinkod AI Visibility Example are already interested in visibility, AI SEO, or modern search. They should be guided toward a website analysis, a related tool page, or another Trubo Rank AI resource.
+## How the Evidence Is Interpreted
 
-For a stronger conversion path, link this page to related tool pages and nearby topics. A visitor reading about AI Crawlers may also care about GPTBot, ClaudeBot, PerplexityBot, AI Bot Access Checker, and AI Bot Tracking Tool. A visitor reading about AI Content Optimization may also care about AI Keywords Generator, AI Answer Generator, AI Content Planner, AEO Checker, and GEO Checker.
+The useful finding is not simply that bots reached Plinkod. The combined evidence answers several narrower questions:
 
-## Related Pages
+- Did AI and search crawlers request public pages? Yes, within the recorded tracking period.
+- Did AI platforms send attributable referral traffic? Yes, within the supplied aggregate export.
+- Was ChatGPT the dominant measured AI referral source? Yes, in this snapshot.
+- Do these events prove rankings, model training, citations, or recommendations? No.
 
-- [Docs / Ai Discoverability](../docs/ai-discoverability.md)
-- [Tools / Ai Visibility Tool](../tools/ai-visibility-tool.md)
-- [Tools / Ai Readiness Checker](../tools/ai-readiness-checker.md)
+This separation matters for SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO). Crawler access can identify discoverability patterns. Referral data can identify measurable traffic. Saved answer-engine observations can document appearances. None should be silently converted into a stronger claim than the source supports.
 
-- [AI Discoverability Checker](../tools/ai-discoverability-checker.md)
+## Practical Workflow
 
-## Learn More
+The study uses the evidence to guide the next website improvements:
 
-Read the main [Trubo Rank AI README](../README.md) for the public product overview and links to the official AI Discoverability, AI SEO, AEO, GEO, AI Visibility, AI Crawlers, llms.txt, Markdown, and Link Headers resources.
+1. Review which pages receive crawler and referral activity.
+2. Separate user-triggered retrieval from automated crawling.
+3. Improve page clarity, internal links, technical access, and answer-ready structure.
+4. Publish a reviewed evidence snapshot from the TruboRankAI Admin dashboard.
+5. Compare the next snapshot without rewriting historical results.
 
-## Analyze Your Website
+## Sources and Limitations
 
-Analyze your website with Trubo Rank AI
+Referral totals come from an aggregate export supplied by the site owner. Bot totals come from a TruboRankAI export for the stated period. The data is cumulative and does not establish causal attribution between a website change and an AI-platform outcome.
 
-https://truborankai.com
+Explore the full [live AI visibility case study library](https://truborankai.com/case-study) or learn about [AI bot tracking](../docs/ai-bot-tracking.md).
